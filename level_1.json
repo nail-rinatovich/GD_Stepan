@@ -1,0 +1,47 @@
+{
+  "level_name": "Stereo Madness Clone",
+  "speed": 340,
+  "duration_seconds": 45,
+  "objects": [
+    { "type": "spike", "x": 700, "y": 500 },
+    { "type": "spike", "x": 1200, "y": 500 },
+    { "type": "spike", "x": 1700, "y": 500 },
+
+    { "type": "block", "x": 2300, "y": 460 },
+    { "type": "spike", "x": 2500, "y": 500 },
+
+    { "type": "spike", "x": 3000, "y": 500 },
+    { "type": "spike", "x": 3040, "y": 500 },
+
+    { "type": "block", "x": 3600, "y": 460 },
+    { "type": "block", "x": 3640, "y": 460 },
+    { "type": "spike", "x": 3850, "y": 500 },
+
+    { "type": "spike", "x": 4400, "y": 500 },
+    { "type": "spike", "x": 4900, "y": 500 },
+
+    { "type": "block", "x": 5500, "y": 460 },
+    { "type": "block", "x": 5540, "y": 460 },
+    { "type": "block", "x": 5580, "y": 460 },
+    { "type": "spike", "x": 5800, "y": 500 },
+
+    { "type": "spike", "x": 6400, "y": 500 },
+    { "type": "spike", "x": 6440, "y": 500 },
+
+    { "type": "spike", "x": 7100, "y": 500 },
+
+    { "type": "block", "x": 7700, "y": 460 },
+    { "type": "spike", "x": 7900, "y": 500 },
+
+    { "type": "spike", "x": 8500, "y": 500 },
+    { "type": "spike", "x": 8540, "y": 500 },
+    { "type": "spike", "x": 8580, "y": 500 },
+
+    { "type": "spike", "x": 9300, "y": 500 },
+    { "type": "spike", "x": 9900, "y": 500 },
+    { "type": "spike", "x": 10500, "y": 500 },
+    { "type": "spike", "x": 11100, "y": 500 },
+    { "type": "spike", "x": 11700, "y": 500 },
+    { "type": "spike", "x": 12300, "y": 500 }
+  ]
+}

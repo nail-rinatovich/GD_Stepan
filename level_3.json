@@ -1,0 +1,96 @@
+{
+    "level_name": "Polargeist: Ледяной Ритм",
+    "speed": 420,
+    "duration_seconds": 40,
+    "objects": [
+        { "type": "spike", "x": 900, "y": 500 },
+        { "type": "spike", "x": 1400, "y": 500 },
+        { "type": "spike", "x": 1440, "y": 500 },
+        
+        { "type": "block", "x": 1900, "y": 460 },
+        { "type": "spike", "x": 2150, "y": 500 },
+        { "type": "spike", "x": 2190, "y": 500 },
+        
+        { "type": "block", "x": 2600, "y": 460 },
+        { "type": "block", "x": 2640, "y": 460 },
+        { "type": "spike", "x": 2900, "y": 500 },
+        
+        { "type": "block", "x": 3300, "y": 460 },
+        { "type": "spike", "x": 3550, "y": 500 },
+        { "type": "spike", "x": 3590, "y": 500 },
+        { "type": "spike", "x": 3630, "y": 500 },
+        
+        { "type": "block", "x": 4100, "y": 460 },
+        { "type": "block", "x": 4140, "y": 460 },
+        { "type": "spike", "x": 4400, "y": 500 },
+        { "type": "block", "x": 4650, "y": 460 },
+        { "type": "spike", "x": 4900, "y": 500 },
+        
+        { "type": "spike", "x": 5300, "y": 500 },
+        { "type": "spike", "x": 5340, "y": 500 },
+        
+        { "type": "block", "x": 5800, "y": 460 },
+        { "type": "block", "x": 5840, "y": 460 },
+        { "type": "block", "x": 5880, "y": 460 },
+        { "type": "spike", "x": 6150, "y": 500 },
+        { "type": "spike", "x": 6190, "y": 500 },
+        
+        { "type": "block", "x": 6600, "y": 460 },
+        { "type": "spike", "x": 6850, "y": 500 },
+        { "type": "spike", "x": 6890, "y": 500 },
+        { "type": "spike", "x": 6930, "y": 500 },
+        
+        { "type": "block", "x": 7400, "y": 460 },
+        { "type": "block", "x": 7440, "y": 460 },
+        { "type": "spike", "x": 7700, "y": 500 },
+        { "type": "block", "x": 7950, "y": 460 },
+        { "type": "spike", "x": 8200, "y": 500 },
+        
+        { "type": "spike", "x": 8600, "y": 500 },
+        { "type": "spike", "x": 8640, "y": 500 },
+        { "type": "spike", "x": 8680, "y": 500 },
+        
+        { "type": "block", "x": 9100, "y": 460 },
+        { "type": "block", "x": 9140, "y": 460 },
+        { "type": "spike", "x": 9400, "y": 500 },
+        { "type": "spike", "x": 9440, "y": 500 },
+        
+        { "type": "block", "x": 9900, "y": 460 },
+        { "type": "spike", "x": 10150, "y": 500 },
+        { "type": "block", "x": 10400, "y": 460 },
+        { "type": "spike", "x": 10650, "y": 500 },
+        
+        { "type": "spike", "x": 11000, "y": 500 },
+        { "type": "spike", "x": 11040, "y": 500 },
+        { "type": "spike", "x": 11080, "y": 500 },
+        
+        { "type": "block", "x": 11500, "y": 460 },
+        { "type": "block", "x": 11540, "y": 460 },
+        { "type": "block", "x": 11580, "y": 460 },
+        { "type": "spike", "x": 11850, "y": 500 },
+        
+        { "type": "block", "x": 12300, "y": 460 },
+        { "type": "spike", "x": 12550, "y": 500 },
+        { "type": "spike", "x": 12590, "y": 500 },
+        
+        { "type": "block", "x": 13000, "y": 460 },
+        { "type": "block", "x": 13040, "y": 460 },
+        { "type": "spike", "x": 13300, "y": 500 },
+        { "type": "spike", "x": 13340, "y": 500 },
+        { "type": "spike", "x": 13380, "y": 500 },
+        
+        { "type": "block", "x": 13800, "y": 460 },
+        { "type": "spike", "x": 14050, "y": 500 },
+        { "type": "block", "x": 14300, "y": 460 },
+        { "type": "spike", "x": 14550, "y": 500 },
+        
+        { "type": "spike", "x": 14900, "y": 500 },
+        { "type": "spike", "x": 14940, "y": 500 },
+        { "type": "spike", "x": 14980, "y": 500 },
+        { "type": "spike", "x": 15020, "y": 500 },
+        
+        { "type": "block", "x": 15500, "y": 460 },
+        { "type": "block", "x": 15540, "y": 460 },
+        { "type": "spike", "x": 15800, "y": 500 }
+    ]
+}

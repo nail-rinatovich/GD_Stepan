@@ -1,0 +1,69 @@
+{
+    "level_name": "Back On Track: Ритм и Прыжки",
+    "speed": 400,
+    "duration_seconds": 35,
+    "objects": [
+        { "type": "spike", "x": 1000, "y": 500 },
+        { "type": "spike", "x": 1500, "y": 500 },
+        
+        { "type": "spike", "x": 2000, "y": 500 },
+        { "type": "spike", "x": 2040, "y": 500 },
+        
+        { "type": "block", "x": 2600, "y": 460 },
+        { "type": "spike", "x": 2850, "y": 500 },
+        
+        { "type": "block", "x": 3200, "y": 460 },
+        { "type": "block", "x": 3240, "y": 460 },
+        { "type": "spike", "x": 3500, "y": 500 },
+        
+        { "type": "spike", "x": 3900, "y": 500 },
+        { "type": "spike", "x": 3940, "y": 500 },
+        
+        { "type": "block", "x": 4400, "y": 460 },
+        { "type": "spike", "x": 4650, "y": 500 },
+        { "type": "block", "x": 4900, "y": 460 },
+        { "type": "spike", "x": 5150, "y": 500 },
+        
+        { "type": "spike", "x": 5500, "y": 500 },
+        { "type": "spike", "x": 5540, "y": 500 },
+        
+        { "type": "block", "x": 6000, "y": 460 },
+        { "type": "block", "x": 6040, "y": 460 },
+        { "type": "block", "x": 6080, "y": 460 },
+        { "type": "spike", "x": 6350, "y": 500 },
+        
+        { "type": "spike", "x": 6700, "y": 500 },
+        { "type": "spike", "x": 6740, "y": 500 },
+        
+        { "type": "block", "x": 7200, "y": 460 },
+        { "type": "spike", "x": 7450, "y": 500 },
+        { "type": "block", "x": 7700, "y": 460 },
+        { "type": "spike", "x": 7950, "y": 500 },
+        
+        { "type": "spike", "x": 8300, "y": 500 },
+        { "type": "spike", "x": 8340, "y": 500 },
+        
+        { "type": "block", "x": 8800, "y": 460 },
+        { "type": "block", "x": 8840, "y": 460 },
+        { "type": "spike", "x": 9100, "y": 500 },
+        
+        { "type": "spike", "x": 9400, "y": 500 },
+        
+        { "type": "block", "x": 9800, "y": 460 },
+        { "type": "block", "x": 9840, "y": 460 },
+        { "type": "block", "x": 9880, "y": 460 },
+        { "type": "spike", "x": 10150, "y": 500 },
+        
+        { "type": "block", "x": 10500, "y": 460 },
+        { "type": "spike", "x": 10750, "y": 500 },
+        { "type": "block", "x": 11000, "y": 460 },
+        { "type": "spike", "x": 11250, "y": 500 },
+        
+        { "type": "spike", "x": 11600, "y": 500 },
+        { "type": "spike", "x": 11640, "y": 500 },
+        
+        { "type": "block", "x": 12000, "y": 460 },
+        { "type": "block", "x": 12040, "y": 460 },
+        { "type": "spike", "x": 12300, "y": 500 }
+    ]
+}
